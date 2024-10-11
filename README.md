@@ -1,5 +1,4 @@
 # Proyecto Git - Comandos y Conflictos
-# Proyecto Git - Comandos y Conflictos
 
 ## Descripción
 
@@ -69,5 +68,5 @@ Este proyecto me ha permitido entender mejor el flujo de trabajo en Git, la impo
 
 ## Enlace del repositorio
 
-El repositorio público del proyecto está disponible en GitHub en la siguiente dirección: [Enlace al repositorio](https://github.com/tu-usuario/Comandos-git). He agregado al profesor como colaborador para que pueda revisar el proyecto.
+El repositorio público del proyecto está disponible en GitHub en la siguiente dirección: [Enlace al repositorio](https://github.com/Nicolas-810/Comandos-git.git). He agregado al profesor como colaborador para que pueda revisar el proyecto.
 
